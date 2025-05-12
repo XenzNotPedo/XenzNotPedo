@@ -22,12 +22,7 @@
 
 ---
 ### 🎧 Currently Jamming:
-
-<p align="center">
-  <a href="https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE">
-    <img src="https://spotify-song.vercel.app/api/spotify?trackId=75ls0gurX68lUmMjE7QcsE&theme=dark" alt="Bring Me To Life by Evanescence"/>
-  </a>
-</p>
+[![Bring Me To Life - Evanescence](https://i.scdn.co/image/ab67616d0000b27375ls0gurX68lUmMjE7QcsE)](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE)
 
 ### 📊 GitHub Stats
 
