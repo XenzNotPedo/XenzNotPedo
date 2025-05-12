@@ -21,8 +21,11 @@
 - **Mini SimBot** – Roleplay command system for WhatsApp.
 
 ---
-### 🎧 Currently Jamming:
-[![Bring Me To Life - Evanescence](https://i.scdn.co/image/ab67616d0000b27375ls0gurX68lUmMjE7QcsE)](https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE)
+<p align="center">
+  <a href="https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE">
+    <img src="https://link-ke-screenshot.png" alt="Bring Me to Life Player" width="400"/>
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 
