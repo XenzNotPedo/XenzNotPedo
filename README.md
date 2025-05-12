@@ -35,9 +35,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com">Email</a> • 
-  <a href="https://discord.com/users/your_discord_id">Discord</a> • 
-  <a href="https://twitter.com/your_handle">Twitter</a>
+  <a href="mailto: carlottaemailsupp@gmail.com">Email</a> • 
+  <a href="https://discord.com/users/1371348410304696430">Discord</a> • 
+  <a href="https://whatsapp.com/channel/0029Vb5pewn3bbUy62YZNz00">Saluran WhatsApp</a>
 </p>
 
 ---
