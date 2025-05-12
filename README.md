@@ -9,6 +9,18 @@
 
 ---
 
+<p align="center">
+  <a href="https://xenzwithhoshino.vercel.app" target="_blank">🌐 Visit My Website</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Writing-Dark%20Fantasy-%23aa00ff" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-blue" />
+  <img src="https://img.shields.io/badge/Project-Crimson%20Cycle-red" />
+</p>
+
+---
+
 ### 🧠 About Me
 
 - ✒️ **Fantasy writer** with a love for lore, tragedy, and world-building.
@@ -18,23 +30,6 @@
 - 🧩 **Hobbies**: Brainstorming systems, dropping unfinished projects.
 
 ---
-### 🧠 My Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
-
-### ⚡ GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=XenzNotPedo&theme=tokyo-night" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Writing-Dark%20Fantasy-%23aa00ff" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-blue" />
-  <img src="https://img.shields.io/badge/Project-Crimson%20Cycle-red" />
-</p>
 
 ### ⚔️ Current Projects
 
@@ -47,6 +42,24 @@
 
 - **Mini SimBot**  
   *Roleplay command system for WhatsApp – login, nikah, item, and chaos.*
+
+---
+
+### 🖼️ Waifu Section
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XenzNotPedo/xenz-file-upload/main/file-uploader/da6ac6488e787c22c6d80cd951039081.jpg" alt="Waifu Xenz" width="300px" style="border-radius: 12px;" />
+</p>
+<p align="center"><em>This one fuels my dark power.</em></p>
+
+---
+
+### 🧠 My Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 
 ---
 
@@ -65,7 +78,8 @@
 <p align="center">
   <a href="mailto:carlottaemailsupp@gmail.com">Email</a> • 
   <a href="https://discord.com/users/1371348410304696430">Discord</a> • 
-  <a href="https://whatsapp.com/channel/0029Vb5pewn3bbUy62YZNz00">WhatsApp Channel</a>
+  <a href="https://whatsapp.com/channel/0029Vb5pewn3bbUy62YZNz00">WhatsApp Channel</a> • 
+  <a href="https://xenznotpedo.vercel.app">Website</a>
 </p>
 
 ---
