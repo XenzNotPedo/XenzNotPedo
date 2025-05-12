@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <a href="https://xenzwithhoshino.vercel.app" target="_blank">🌐 Visit My Website</a>
+  <a href="https://xenzforever.vercel.app/" target="_blank">🌐 Visit My Website</a>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@
   <a href="mailto:carlottaemailsupp@gmail.com">Email</a> • 
   <a href="https://discord.com/users/1371348410304696430">Discord</a> • 
   <a href="https://whatsapp.com/channel/0029Vb5pewn3bbUy62YZNz00">WhatsApp Channel</a> • 
-  <a href="https://xenznotpedo.vercel.app">Website</a>
+  <a href="[https://xenznotpedo.vercel.app](https://xenzforever.vercel.app/)">Website</a>
 </p>
 
 ---
