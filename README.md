@@ -43,6 +43,21 @@
 
 - **Mini SimBot**  
   *Roleplay command system for WhatsApp – login, nikah, item, and chaos.*
+---
+
+### 🖼️ Waifu Section
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XenzNotPedo/xenz-file-upload/main/file-uploader/da6ac6488e787c22c6d80cd951039081.jpg" alt="Carlotta" width="280px" style="border-radius: 12px;" />
+</p>
+<p align="center"><strong>Carlotta</strong> — <em>This one fuels my dark power.</em></p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XenzNotPedo/xenz-file-upload/main/file-uploader/95096c7a629fb4db3dd6fe7780890fcd.jpg" alt="Hoshino" width="280px" style="border-radius: 12px;" />
+</p>
+<p align="center"><strong>Hoshino</strong> — <em>The light I’ll never reach.</em></p>
 
 ---
 
