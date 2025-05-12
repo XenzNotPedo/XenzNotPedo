@@ -26,7 +26,7 @@
 
 - ✒️ **Fantasy writer** with a love for lore, tragedy, and world-building.
 - 💻 **Front-end enthusiast** (JavaScript, CSS — especially dark/light UI).
-- 🎮 **Gamer soul**: addicted to PGR, Wuthering Waves, and Blue Archive.
+- 🎮 **Gamer soul**: addicted to Punishing Gray Raven, Wuthering Waves, and Blue Archive.
 - ☕ **Fuel**: Mango, caffeine, and crispy fried chicken.
 - 🧩 **Hobbies**: Brainstorming systems, dropping unfinished projects.
 
@@ -41,8 +41,8 @@
 - **CSS Playground**  
   *Stylish UI experiments with full dark/light mode toggle.*
 
-- **Mini SimBot**  
-  *Roleplay command system for WhatsApp – login, nikah, item, and chaos.*
+- **Mini Bot**  
+  *Roleplay command system for WhatsApp – login, rpg, and downloader.*
 ---
 
 ### 🖼️ Waifu Section
