@@ -21,11 +21,6 @@
 - **Mini SimBot** – Roleplay command system for WhatsApp.
 
 ---
-<p align="center">
-  <a href="https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE">
-    <img src="https://link-ke-screenshot.png" alt="Bring Me to Life Player" width="400"/>
-  </a>
-</p>
 
 ### 📊 GitHub Stats
 
