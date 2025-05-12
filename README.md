@@ -18,6 +18,18 @@
 - 🧩 **Hobbies**: Brainstorming systems, dropping unfinished projects.
 
 ---
+### 🧠 My Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+
+### ⚡ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=XenzNotPedo&theme=tokyo-night" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Writing-Dark%20Fantasy-%23aa00ff" />
   <img src="https://img.shields.io/badge/Code-JavaScript-blue" />
