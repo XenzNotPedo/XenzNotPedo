@@ -1,4 +1,5 @@
-<h1 align="center">Xenz D. Caelum (a.k.a. XenzNotPedo)</h1>
+<h1 align="center">Xenz D. Caelum 
+  (a.k.a. XenzNotPedo)</h1>
 <p align="center">
   <em>Dark fantasy writer | Front-end tinker | Lore addict</em>
 </p>
@@ -45,12 +46,7 @@
 
 ---
 
-### 🖼️ Waifu Section
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/XenzNotPedo/xenz-file-upload/main/file-uploader/da6ac6488e787c22c6d80cd951039081.jpg" alt="Waifu Xenz" width="300px" style="border-radius: 12px;" />
-</p>
-<p align="center"><em>This one fuels my dark power.</em></p>
 
 ---
 
