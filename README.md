@@ -18,6 +18,11 @@
 - 🧩 **Hobbies**: Brainstorming systems, dropping unfinished projects.
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Writing-Dark%20Fantasy-%23aa00ff" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-blue" />
+  <img src="https://img.shields.io/badge/Project-Crimson%20Cycle-red" />
+</p>
 
 ### ⚔️ Current Projects
 
