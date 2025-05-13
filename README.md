@@ -1,7 +1,7 @@
 <h1 align="center">Xenz D. Caelum 
   (a.k.a. XenzNotPedo)</h1>
 <p align="center">
-  <em>Dark fantasy writer | Front-end tinker | Lore addict</em>
+  <em>Dark Fantasy Writer | Front-End Tinker | Lore Addict | Code Whisperer</em>
 </p>
 
 <p align="center">
@@ -24,25 +24,31 @@
 
 ### 🧠 About Me
 
-- ✒️ **Fantasy writer** with a love for lore, tragedy, and world-building.
-- 💻 **Front-end enthusiast** (JavaScript, CSS — especially dark/light UI).
-- 🎮 **Gamer soul**: addicted to Punishing Gray Raven, Wuthering Waves, and Blue Archive.
-- ☕ **Fuel**: Mango, caffeine, and crispy fried chicken.
-- 🧩 **Hobbies**: Brainstorming systems, dropping unfinished projects.
+I'm Xenz D. Caelum, a dark fantasy writer with a passion for creating rich worlds filled with lore and tragedy. By day, I tinker with front-end code, crafting interfaces that blend aesthetic design with functional brilliance. By night, I delve deep into fantasy novels, games, and my own writing, where vengeance, power, and mystery collide.
+
+- ✒️ **Fantasy Writer**: Specializing in dark, tragic stories with a strong focus on world-building.
+- 💻 **Front-End Developer**: Expertise in JavaScript and CSS (especially dark/light mode UI).
+- 🎮 **Gaming Enthusiast**: Lost in worlds like Punishing Gray Raven, Wuthering Waves, and Blue Archive.
+- ☕ **Powered by**: Mango, caffeine, and crispy fried chicken.
+- 🧩 **Hobbies**: Brainstorming systems, starting new projects (even if they don’t get finished!).
 
 ---
 
 ### ⚔️ Current Projects
 
 - **Crimson Cycle: Reincarnation to Kill a God**  
-  *Dark aristocratic fantasy + isekai novel.*  
-  > *"Even in death, vengeance shall bloom."*
+  *Dark Aristocratic Fantasy + Isekai Novel*  
+  > *"Even in death, vengeance shall bloom."*  
+  A saga of reincarnation, betrayal, and ambition, set in a world where the consequences of a past life never truly fade.
 
 - **CSS Playground**  
-  *Stylish UI experiments with full dark/light mode toggle.*
+  *Stylish UI experiments with a focus on dark/light mode toggles.*  
+  Testing new ways to make web interfaces intuitive and visually striking, while offering ultimate customization.
 
 - **Mini Bot**  
-  *Roleplay command system for WhatsApp – login, rpg, and downloader.*
+  *WhatsApp Roleplay Command System*  
+  Bringing roleplay to WhatsApp through a powerful command system: login, RPG mechanics, item handling, and more.
+
 ---
 
 ### 🖼️ Waifu Section
@@ -61,16 +67,16 @@
 
 ---
 
-
-
----
-
 ### 🧠 My Tech Stack
+
+I'm constantly experimenting with new technologies and pushing boundaries to enhance my front-end and creative projects.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss)
 
 ---
 
@@ -84,16 +90,17 @@
 
 ---
 
-
-<iframe src="https://open.spotify.com/embed/track/75ls0gurX68lUmMjE7QcsE" width="300" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 ### 🌐 Connect with Me
+
+Let’s stay connected! You can find me on these platforms:
 
 <p align="center">
   <a href="mailto:carlottaemailsupp@gmail.com">Email</a> • 
   <a href="https://discord.com/users/1371348410304696430">Discord</a> • 
   <a href="https://whatsapp.com/channel/0029Vb5pewn3bbUy62YZNz00">WhatsApp Channel</a> • 
-  <a href="[https://xenznotpedo.vercel.app](https://xenzforever.vercel.app/)">Website</a>
+  <a href="https://xenzforever.vercel.app/">Website</a> • 
+  <a href="https://twitter.com/XenzNotPedo">Twitter</a> • 
+  <a href="https://www.instagram.com/xenz_not_pedo/">Instagram</a>
 </p>
 
 ---
